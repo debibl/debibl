@@ -1,8 +1,8 @@
 ### Welcome, delicious friend 🍄
-#My name is Vasilina. Or Vasya. Or just V. 
+# My name is Vasilina. Or Vasya. Or just V. 
 I'm still trying to figure out how to create Skynet and enslave the world 😊
 
-*⚡ Fun fact: I keep my enemies in jars in my basement.*
+⚡ **Fun fact:** I keep my enemies in jars in my basement.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debibl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
